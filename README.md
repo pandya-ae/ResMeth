@@ -1,0 +1,2 @@
+# ResMeth
+ Research Methodology course
